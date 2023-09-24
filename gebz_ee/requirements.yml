@@ -1,0 +1,18 @@
+collections:
+  - name: community.general
+  - name: community.vmware
+  - name: kubernetes.core
+  - name: amazon.aws
+  - name: cisco.ios
+  - name: ansible.windows
+  - name: community.docker
+  - name: ansible.posix
+  - name: ansible.netcommon
+  - name: community.network
+  - name: vmware.vmware_rest
+  - name: community.mysql
+  - name: cloud.terraform
+  - name: ansible.utils
+  - name: microsoft.ad
+  - name: community.dns
+  
